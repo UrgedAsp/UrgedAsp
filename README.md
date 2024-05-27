@@ -1,8 +1,7 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="assets/CatProgramming.gif">
-</a>
+<img src="assets/CatProgramming.gif" title="CatCat" alt="CatCat">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sebastian+Castillo+👋🏻"/></a>
+&nbsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++FullStack+Developer+💻"/></a>
 
 <br/>
@@ -10,8 +9,6 @@
 # JavaScript Lover 💻❤️
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
-
-
 
 
 ## 🚀💻 Technologies & Tools
