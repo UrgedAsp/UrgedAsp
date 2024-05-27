@@ -1,13 +1,13 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
+<div>
+    <div style="float: left; width: 50%;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sebastian+Castillo+👋🏻"/></a>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++FullStack+Developer+💻"/></a>
-  </div>
-  <div style="flex: 1; text-align: right;">
+    </div>
+    <div style="float: right; width: 50%;">
     <a target="_blank" align="center">
       <img height="270" width="400" alt="GIF" src="assets/CatProgramming.gif">
     </a>
-  </div>
+    </div>
 </div>
 
 <br/>
