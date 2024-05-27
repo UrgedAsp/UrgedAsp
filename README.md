@@ -1,14 +1,23 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="380" alt="GIF" src="assets/CatProgramming.gif">
-  
-</a>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sebastian+Castillo+👋🏻"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++FullStack+Developer+💻"/></a>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <a target="_blank" align="center">
+      <img height="270" width="400" alt="GIF" src="assets/CatProgramming.gif">
+    </a>
+  </div>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sebastian+Castillo+👋🏻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++FullStack+Developer+💻)](https://git.io/typing-svg)
+<br/>
 
-# Thank you for visiting my GitHub profile 📱
+# JavaScript Lover 💻❤️
 
-<hr>
+🙋‍♂️ Thank you for visiting my GitHub profile! 
+
+
+
 
 ## 🚀💻 Technologies & Tools
 
@@ -27,7 +36,6 @@
 <span><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=00b3a8" alt="Dart logo" title="Dart" height="25" /></span>
 &nbsp;
 
-<br>
 
 ### <u> Frontend Development Technologies and Tools: </u>
 
